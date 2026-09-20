@@ -1,0 +1,23 @@
+{
+  "name": "deepseek-theme",
+  "displayName": "DeepSeek (from Prism)",
+  "description": "DeepSeek code highlight theme converted from Prism",
+  "version": "1.0.0",
+  "publisher": "Isint",
+  "license": "MIT",
+  "icon": "icon.png",
+  "private": true,
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DeepSeek (from Prism)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deepseek-color-theme.json"
+      }
+    ]
+  }
+}
