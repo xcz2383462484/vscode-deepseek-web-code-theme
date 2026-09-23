@@ -5534,15 +5534,9 @@
       }
     },
     {
-      "scope": "variable.other.unknown.requires",
+      "scope": "invalid.illegal.placeholder",
       "settings": {
-        "foreground": "#e9ae7e"
-      }
-    },
-    {
-      "scope": "variable.other.unknown.requires.cpp",
-      "settings": {
-        "foreground": "#e9ae7e"
+        "foreground": "#91d076"
       }
     },
     {
